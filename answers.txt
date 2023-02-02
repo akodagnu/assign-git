@@ -6,4 +6,4 @@
 3. Why should you have different branches?
         With the use of different branches, different people can work on the same project without affecting the main branch. Branches make it easy to organize and accumulate the work done by different individuals.
 4. In a project how many remote Git repositories do you usually have? 
-        We usually have one git repository per project so that different people working on the project can all use the same repository to add/remove content.
+        We usually have one remote git repository per project so that different people working on the project can all use the same repository to add/remove content.
